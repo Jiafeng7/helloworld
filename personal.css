@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background-color: rgba(142, 142, 142, 0.31);
+}
+
+img {
+  float: right;
+  width: 100px;
+  height: auto;
+  margin: 5px;
+  border: 2px solid #ccc;
+  padding: 3px;
+}
+
+.column {
+  border: 1px solid #000000;
+  padding: 15px;
+  width: 32%;
+  box-sizing: border-box;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
